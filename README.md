@@ -1,4 +1,4 @@
-# Project Balatro – Automated Gameplay Data Generation with Decision making Optimization
+# Project Balatro 1st Stage – Automated Gameplay Data Generation with Decision making Optimization
 
 Author: Sangmyeong Lee \
 Contact: hismyeong@gmail.com \
